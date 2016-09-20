@@ -76,6 +76,7 @@ public class MonoplyDice {
                         user = keyboard.next();
                     }
                }
+       keyboard.close();
         
     }
     
